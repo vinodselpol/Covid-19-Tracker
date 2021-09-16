@@ -1,13 +1,7 @@
 
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import {
-  MenuItem,
-  FormControl,
-  Select,
-  Card,
-  CardContent,
-} from "@material-ui/core";
+
 import InfoBox from "./InfoBox";
 import Map from "./Map";
 import Table from "./Table";
