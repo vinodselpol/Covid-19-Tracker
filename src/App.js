@@ -12,6 +12,7 @@ import {
 import InfoBox from "./InfoBox";
 import Map from "./Map";
 import Table from "./Table";
+import { sortData, prettyPrintStat } from "./util";
 
 import LineGraph from "./LineGraph";
 import "leaflet/dist/leaflet.css";
